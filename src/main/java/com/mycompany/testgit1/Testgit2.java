@@ -11,7 +11,8 @@ package com.mycompany.testgit1;
 public class Testgit2 {
     
     Testgit2() {
-       System.out.println("TestGit2");  
+       System.out.println("TestGit2");
+       System.out.println("hello worl 2 test2");
     }
    
 }
