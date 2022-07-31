@@ -10,7 +10,7 @@ package com.mycompany.testgit1;
  */
 public class Testgit3 {
     Testgit3(){
-    System.out.println("Hello world 3");
+    System.out.println("Hello world 4");
     
     }
     Testgit3 obj1 = new Testgit3();
