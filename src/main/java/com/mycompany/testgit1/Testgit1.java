@@ -18,5 +18,9 @@ public class Testgit1 {
         System.out.println("hello worl 4");
         System.out.println("hello worl 6");
         System.out.println("hello worl 7");
+      //new branch2 test 1
+        System.out.println("Hello world  6");
+        System.out.println("Hello world  7");
+         System.out.println("Hello world  8");
     }
 }
