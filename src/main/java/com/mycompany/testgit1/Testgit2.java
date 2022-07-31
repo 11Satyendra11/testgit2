@@ -12,14 +12,8 @@ public class Testgit2 {
     
     Testgit2() {
        System.out.println("TestGit2");
-       System.out.println("hello worl 2 test2");
-       System.out.println("TestGit2");
-       System.out.println("hello worl 2 test2");
-       System.out.println("TestGit2");
-       System.out.println("hello worl 2 test2");
-       System.out.println("TestGit2");
-       System.out.println("hello worl 2 test2");
-       
+       System.out.println("hello world test2 test3");
+        System.out.println("hello world test4 test5");
     }
    
 }
