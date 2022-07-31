@@ -11,6 +11,11 @@ package com.mycompany.testgit1;
 public class Testgit3 {
     Testgit3(){
     System.out.println("Hello world  5");
+    System.out.println("Hello world  5");
+    System.out.println("Hello world  5");
+    System.out.println("Hello world  5");
+    System.out.println("Hello world  5");
+    System.out.println("Hello world  5");
     
     }
     Testgit3 obj1 = new Testgit3();
